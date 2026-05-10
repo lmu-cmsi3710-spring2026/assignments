@@ -30,7 +30,7 @@ Conversely, the scene must also have something that is _interactive_—i.e., the
 Give your scene an appropriate lighting scheme and make sure that all objects respond to lighting as intended.
 
 #### Demonstrate that You Have the Technology
-To guide your choices on animation and interaction, make sure that your pitched scene uses the following capabilities of your library. You are free to fit the capability to your use case—you may choose to show these either via autonomous animation or interaction, but make sure you _show_ all of them one way or the other without having to change the scene’s source code:
+To guide your choices on animation and interaction, make sure that either your sandbox or pitched scene uses the following capabilities of your library. You are free to fit the capability to your use case—you may choose to show these either via autonomous animation or interaction, but make sure you _show_ all of them one way or the other without having to change the scene’s source code:
 * Ability to change camera position and viewpoint
 * Ability to toggle between wireframe and solid rendering
 * Ability to toggle between orthographic and perspective projection (you may choose the viewing volume parameters as appropriate for each type of projection)
